@@ -99,6 +99,7 @@ class TestCookieSetup(object):
             'src',
             'src/data',
             'src/features',
+            'src/main',
             'src/models',
             'src/visualization',
         ]
