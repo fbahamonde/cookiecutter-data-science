@@ -1,0 +1,5 @@
+#DEFINICIONES IMPORTANTES AQUI
+#import yaml
+
+#with open(os.path.join(os.path.dirname(__file__),'parameters.yml')) as file:
+#    parameters = yaml.load(file, Loader=yaml.FullLoader)
